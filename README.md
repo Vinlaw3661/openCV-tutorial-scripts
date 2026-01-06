@@ -1,4 +1,4 @@
-# OpenCV-Computer-Vision-Reference-Scripts-
+# OpenCV Computer Vision Reference Scripts
 This repository hosts a collection of reference scripts using OpenCV, catering to introductory and intermediate levels of understanding in computer vision. The scripts cover fundamental concepts and practical implementations, offering clear examples for various vision tasks such as image processing, object detection, feature extraction, and more. Each script is extensively commented, aiding comprehension and serving as a resource for learners and developers navigating through OpenCV functionalities.
 
 # Key Focus Areas:
